@@ -1,8 +1,13 @@
+alert("Welcome to Tic Tac Toe Game! \n\nPlayer 1: O \nPlayer 2: X \n\n it always start with player 1's preference i.e ( 0 )");
+
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#resetBtn");
 let newgamebtn = document.querySelector("#newgamebtn");
 let msgcontainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
+
+let name1 = document.querySelector("#player1");
+let name2 = document.querySelector("#player2");
 
 let turnO = true;
 
@@ -52,7 +57,7 @@ const checkWinner = () => {
 
     if (pos1 !== "" && pos2 !== "" && pos3 !== "") {
       if (pos1 === pos2 && pos2 === pos3) {
-        showWinner(pos1);
+        showWinner(pos1 === "O" ? name1.value : name2.value);
         return;
       }
     }
