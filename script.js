@@ -5,11 +5,10 @@ let resetBtn = document.querySelector("#resetBtn");
 let newgamebtn = document.querySelector("#newgamebtn");
 let msgcontainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
+let turnO = true;
 
 let name1 = document.querySelector("#player1");
 let name2 = document.querySelector("#player2");
-
-let turnO = true;
 
 const winPatterns = [
   [0, 1, 2],
