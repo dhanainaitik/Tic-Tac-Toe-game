@@ -113,8 +113,10 @@ body{
     }
 
     .players input{
-        width:100%;
-        max-width:300px;
+        width:65%;
+        max-width:250px;
+        min-width:180px;
+        
         box-sizing:border-box;
     }
 
