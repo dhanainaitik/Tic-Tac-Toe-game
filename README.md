@@ -1,53 +1,57 @@
 # 🎮 Tic-Tac-Toe Game
 
-A clean and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
+A modern and responsive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 
-Play against your friend locally with an intuitive interface, winner detection, draw handling, score updates, and the ability to start a new game anytime.
-
-## 🚀 Live Demo
-
-🔗 **Play Here:**  
-https://dhanainaitik.github.io/Tic-Tac-Toe-game/
+Challenge your friend in a classic offline Tic-Tac-Toe match with automatic winner detection, draw handling, smooth gameplay, and an intuitive user interface.
 
 ---
 
-## 📸 Preview
+## 🚀 Live Demo
 
-> Add a screenshot here
+### 🌐 Play Now
+👉 **https://dhanainaitik.github.io/Tic-Tac-Toe-game/**
 
-```md
-![Game Preview](images/preview.png)
-```
+---
+
+## 🎥 Game Demo
+
+![Tic Tac Toe Demo](tic-tac-toe-demo.gif)
 
 ---
 
 ## ✨ Features
 
-- 🎯 Two-player offline gameplay
+- 🎮 Two-player offline gameplay
 - 🏆 Automatic winner detection
-- 🤝 Detects draw situations
-- 🔄 New Game & Reset Game options
-- 📱 Responsive design for desktop and mobile
-- 🎨 Modern UI with smooth user experience
-- ⚡ Built using pure JavaScript (No frameworks)
+- 🤝 Draw detection
+- 🔄 New Game functionality
+- ♻️ Reset Game option
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight
+- 🎨 Clean and modern UI
+- 💻 Built using Vanilla JavaScript (No frameworks)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling & Responsive Design |
+| JavaScript (ES6) | Game Logic |
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 📦 Tic-Tac-Toe-game
+│
 ├── index.html
 ├── style.css
 ├── script.js
+├── tic-tac-toe-demo.gif
 └── README.md
 ```
 
@@ -56,56 +60,99 @@ https://dhanainaitik.github.io/Tic-Tac-Toe-game/
 ## 🎮 How to Play
 
 1. Open the game.
-2. Player **O** starts first.
+2. Player **O** starts the game.
 3. Players take turns placing their marks.
-4. The first player to complete a row, column, or diagonal wins.
-5. If all boxes are filled without a winner, the game ends in a draw.
+4. The first player to complete:
+   - Any row
+   - Any column
+   - Any diagonal
+
+   wins the game.
+
+5. If all boxes are filled and no player wins, the game ends in a draw.
 6. Click **New Game** or **Reset Game** to play again.
 
 ---
 
 ## 💻 Run Locally
 
-Clone the repository
+Clone this repository
 
 ```bash
 git clone https://github.com/dhanainaitik/Tic-Tac-Toe-game.git
 ```
 
-Go to the project folder
+Move into the project folder
 
 ```bash
 cd Tic-Tac-Toe-game
 ```
 
-Open `index.html` in your browser.
+Open
+
+```text
+index.html
+```
+
+in your browser.
 
 ---
 
 ## 🌟 Future Improvements
 
-- 🤖 AI opponent (Single Player)
+- 🤖 Single Player Mode (AI)
 - 🌐 Online Multiplayer
 - 🔊 Sound Effects
 - 🎵 Background Music
 - 🏅 Scoreboard
-- 🌙 Dark / Light Theme
+- 🌙 Dark Mode
 - ⏱️ Timer Mode
+- 🎉 Winning Animations
+
+---
+
+## 📸 Screenshots
+
+You can later add screenshots like this:
+
+```md
+![Home](images/home.png)
+
+![Winner](images/winner.png)
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+If you'd like to improve this project, feel free to fork the repository and submit a Pull Request.
 
 ---
 
 ## 👨‍💻 Author
 
-**Naitik Dhanai**
+### Naitik Dhanai
 
-GitHub: https://github.com/dhanainaitik
+🔗 GitHub  
+https://github.com/dhanainaitik
 
-LinkedIn: *(https://www.linkedin.com/in/naitik-dhanai-a424a6381/)*
+💼 LinkedIn  
+https://www.linkedin.com/in/naitik-dhanai-a424a6381/
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you liked this project, don't forget to **Star ⭐ the repository!**
+If you found this project useful,
 
-It motivates me to build more awesome projects.
+⭐ **Star this repository**
+
+It motivates me to build more awesome open-source projects.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
