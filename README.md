@@ -56,7 +56,7 @@ https://dhanainaitik.github.io/Tic-Tac-Toe-game/
 ## 🎮 How to Play
 
 1. Open the game.
-2. Player **X** starts first.
+2. Player **O** starts first.
 3. Players take turns placing their marks.
 4. The first player to complete a row, column, or diagonal wins.
 5. If all boxes are filled without a winner, the game ends in a draw.
@@ -100,7 +100,7 @@ Open `index.html` in your browser.
 
 GitHub: https://github.com/dhanainaitik
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *(https://www.linkedin.com/in/naitik-dhanai-a424a6381/)*
 
 ---
 
