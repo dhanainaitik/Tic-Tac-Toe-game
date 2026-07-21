@@ -15,7 +15,7 @@ Challenge your friend in a classic offline Tic-Tac-Toe match with automatic winn
 
 ## 🎥 Game Demo
 
-![Tic Tac Toe Demo](tic-tac-toe-demo.gif)
+![Tic Tac Toe Demo](TIC-TAC-TOE-demo.gif)
 
 ---
 
