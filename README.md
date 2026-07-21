@@ -111,17 +111,7 @@ in your browser.
 
 ---
 
-## 📸 Screenshots
 
-You can later add screenshots like this:
-
-```md
-![Home](images/home.png)
-
-![Winner](images/winner.png)
-```
-
----
 
 ## 🤝 Contributing
 
