@@ -51,7 +51,7 @@ Challenge your friend in a classic offline Tic-Tac-Toe match with automatic winn
 ├── index.html
 ├── style.css
 ├── script.js
-├── tic-tac-toe-demo.gif
+├── tictactoedemo.gif
 └── README.md
 ```
 
